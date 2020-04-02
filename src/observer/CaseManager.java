@@ -1,10 +1,9 @@
 package observer;
 
-import state.Country;
+import observable.Country;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
-import java.text.DecimalFormat;
 
 public class CaseManager implements Observer {
 

@@ -5,10 +5,10 @@ import observer.Observer;
 import restriction.SocialDistancing;
 import restriction.StayAtHome;
 import restriction.TotalLockdown;
-import state.Country;
-import state.Germany;
-import state.Italy;
-import state.UnitedStates;
+import observable.Country;
+import observable.Germany;
+import observable.Italy;
+import observable.UnitedStates;
 
 public class Main {
     public static void main(String[] args) {
